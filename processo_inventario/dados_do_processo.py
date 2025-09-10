@@ -37,7 +37,7 @@ dados_processo = {
         {"data": "10/09/2025", "movimento": "Contestação apresentada", "detalhes": "Ré nega responsabilidade, alega culpa de terceiros/PEC e informa contas envolvidas."}
     ],
     "peticoes_diversas": [
-        {"data": "16/07/2025", "tipo": "Petição Intermediária (comprovação de custas)"}
+        {"data": "16/07/2025", "tipo": "Petição Intermediária (comprovação de custas)"},
         {"data": "10/09/2025", "tipo": "Contestação"}
     ],
     "incidentes_etc": [],
