@@ -1,46 +1,12 @@
 summary_and_timeline = {
-    "summary": "Trata-se de um processo de inventário dos bens deixados por Sidney Pires Santana, falecido em 18 de junho de 2022. A ação foi iniciada por sua viúva, Maria Maia Santana, que foi nomeada inventariante. Os herdeiros são a viúva e quatro filhos (sendo um deles pré-morto, representado por seus próprios filhos). O principal bem a ser partilhado é um imóvel avaliado em R$ 60.000,00. O processo começou como Arrolamento Sumário, mas foi convertido para o rito ordinário pelo juiz devido à falta de documentos. A justiça gratuita foi deferida aos herdeiros.",
+    "summary": "<p><strong>Título:</strong> Ação de Indenização por Danos Materiais</p><p><strong>Processo:</strong> 1018887-90.2025.8.26.0405</p><p><strong>Partes:</strong> Autor: Empresa Lotérica Adônis Ltda. (Representante: Viviane Talma Vieira Gonçalves); Réu: Mercado Pago Instituição de Pagamento Ltda.</p><p><strong>Objeto:</strong> A autora, uma casa lotérica, busca indenização de R$ 203.199,00 por prejuízos decorrentes de fraude ocorrida em janeiro/2025. Golpistas, após clonarem o WhatsApp da proprietária, induziram funcionária a realizar dezenas de pagamentos fraudulentos (PEC e boletos) para contas de terceiros. Sustenta falhas de segurança do réu (abertura/monitoramento de contas e transações atípicas), com responsabilidade objetiva.</p><p><strong>Valor da causa:</strong> R$ 203.199,00</p>",
     "timeline": [
-        {
-        "date": "16/09/2022",
-        "event": "Abertura do processo com a petição inicial de Arrolamento Sumário pela viúva, Maria Maia Santana.",
-        "fls": "1-6"
-        },
-        {
-        "date": "21/11/2022",
-        "event": "O juiz determina que a parte autora emende a petição inicial, juntando uma série de documentos faltantes (plano de partilha, certidões, etc.) em 15 dias.",
-        "fls": "32-33"
-        },
-        {
-        "date": "21/11/2023",
-        "event": "Após a juntada de alguns documentos, o juiz converte o processo para o rito ordinário, nomeia Maria Maia Santana como inventariante e defere a gratuidade da justiça. Ordena a expedição de ofícios para a Caixa (FGTS/PIS) e a busca de contas via SISBAJUD.",
-        "fls": "76-77"
-        },
-        {
-        "date": "09/02/2024",
-        "event": "Maria Maia Santana assina o Termo de Compromisso de Inventariante.",
-        "fls": "80"
-        },
-        {
-        "date": "06/05/2024",
-        "event": "A Caixa Econômica Federal responde ao ofício, informando não haver localizado valores de PIS ou FGTS em nome do falecido.",
-        "fls": "89"
-        },
-        {
-        "date": "28/11/2024",
-        "event": "Juiz determina a expedição de ofício ao INSS para verificar a existência de valores de benefício não recebidos em vida pelo falecido.",
-        "fls": "93"
-        },
-        {
-        "date": "30/04/2025",
-        "event": "O INSS responde ao ofício, informando a existência de um crédito residual de R$ 134,04, e anexa os comprovantes do depósito em conta judicial.",
-        "fls": "99-138"
-        },
-        {
-        "date": "12/06/2025",
-        "event": "A inventariante se manifesta, tomando ciência da resposta do INSS e reitera o pedido para que o juízo realize uma busca por outras contas bancárias ativas em nome do falecido.",
-        "fls": "141"
-        }
+        {"date": "02/07/2025", "event": "Petição Inicial — Ajuizada a ação com pedido de informações e tutela de evidência.", "fls": "1"},
+        {"date": "03/07/2025", "event": "Despacho — Determinado o pagamento das custas iniciais e taxa de citação (15 dias).", "fls": "152"},
+        {"date": "16/07/2025", "event": "Cumprimento — Juntado comprovante de pagamento das custas iniciais.", "fls": "155"},
+        {"date": "01/08/2025", "event": "Decisão liminar — Deferido parcialmente: ré deverá prestar informações com a contestação; determinada a citação.", "fls": "161"},
+        {"date": "04/08/2025", "event": "Citação — Expedição de carta; AR juntado em 20/08/2025 confirmando entrega em 07/08/2025.", "fls": "170"},
+        {"date": "10/09/2025", "event": "Contestação — Ré apresenta defesa, nega responsabilidade e informa dados das contas envolvidas.", "fls": "172"}
     ],
-    "current_status": "O processo está em andamento, aguardando uma decisão do juiz sobre o pedido mais recente da inventariante, que solicita uma nova busca por valores em contas ativas do falecido. O inventário já está na fase de apuração de bens, tendo localizado e depositado em juízo um valor residual do INSS.\n\nO próximo passo esperado é a manifestação do juízo sobre este pedido de busca. Após a conclusão da fase de apuração de todos os bens e direitos, a inventariante deverá apresentar as 'últimas declarações' e o plano de partilha final para, então, prosseguir para o cálculo do imposto (se houver) e a finalização do inventário com a expedição do Formal de Partilha."
+    "current_status": "<p>Processo na fase inicial, com contestação apresentada pelo réu. Aguarda-se despacho para abertura de prazo à autora para réplica à contestação.</p><p>Próximos passos: manifestação da autora; o juízo poderá determinar produção de provas (ofícios/perícias), designar audiência de conciliação ou julgar antecipadamente o mérito, conforme o caso.</p>"
 }

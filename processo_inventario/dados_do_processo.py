@@ -1,64 +1,44 @@
 dados_processo = {
-    "fonte": "ESAJ TJMS",
-    "numero_processo": "0840734-78.2022.8.12.0001",
-    "tags": [],
-    "classe": "Inventário",
-    "assunto": "Inventário e Partilha",
-    "foro": "Campo Grande",
-    "vara": "4ª Vara de Família e Sucessões",
-    "juiz": "Larissa Castilho da Silva Farias",
-    "distribuicao": "16/09/2022 às 17:35 - Automática",
-    "controle": "2022/001569",
+    "fonte": "TJSP",
+    "numero_processo": "1018887-90.2025.8.26.0405",
+    "tags": ["Inicial"],
+    "classe": "Procedimento Comum Cível",
+    "assunto": "Responsabilidade Civil / Indenização por Dano Material",
+    "foro": "Osasco",
+    "vara": "8a Vara Cível",
+    "juiz": "Heitor Moreira de Oliveira (no processo) / Gilvana Mastrandéa de Souza (no processo) / Antonio Marcelo Cunzolo Rimola (na capa e-SAJ)",
+    "distribuicao": "02/07/2025 - Automática",
+    "controle": "2025/001696",
     "area": "Cível",
-    "valor_da_acao": "R$ 60.000,00",
+    "valor_da_acao": "R$ 203.199,00",
     "partes": [
         {
-            "tipo": "Inventariante",
-            "nome": "Maria Maia Santana",
+            "tipo": "Autora",
+            "nome": "Empresa Lotérica Adônis Ltda.",
             "advogados": [
-                "Cássia Laís Molina Soares",
-                "Katia Regina Molina Soares",
-                "Evellyn Suanne Paim Geller",
-                "Larissa Sisti Lima"
+                "Viviane Talma Vieira Gonçalves",
+                "Isabela Estanislau de Assis"
             ]
         },
         {
-            "tipo": "Herdeiro",
-            "nome": "Marcio Maia Santana",
+            "tipo": "Ré",
+            "nome": "Mercado Pago Instituição de Pagamento Ltda.",
             "advogados": [
-                "Katia Regina Molina Soares",
-                "Cássia Laís Molina Soares"
+                "Luciano Benetti Timm"
             ]
-        },
-        {
-            "tipo": "Inventariado",
-            "nome": "Sidney Pires Santana",
-            "advogados": []
-        },
-        {
-            "tipo": "Terceiro Interessado",
-            "nome": "Estado de Mato Grosso do Sul",
-            "advogados": []
         }
     ],
     "movimentacoes": [
-        {"data": "30/06/2025", "movimento": "Conclusos para Decisão", "detalhes": ""},
-        {"data": "24/06/2025", "movimento": "Juntada de Petição Intermediária Realizada", "detalhes": "Nº Protocolo: WCGR.25.07386553-7 Tipo da Petição: Pedido de Providências Data: 24/06/2025 22:25"},
-        {"data": "09/06/2025", "movimento": "Prazo em Curso", "detalhes": ""},
-        {"data": "02/06/2025", "movimento": "Publicado ato publicado em data da publicação.", "detalhes": "Relação: 0120/2025 Data da Publicação: 03/06/2025 Número do Diário: 5647"},
-        {"data": "30/05/2025", "movimento": "Relação encaminhada ao D.J.", "detalhes": "Relação: 0120/2025 Teor do ato: Intimação da parte inventariante para manifestar sobre o ofício de f. 99-138, no prazo de 15 (quinze) dias. Advogados(s): Katia Regina Molina Soares (OAB 13952/MS), Cássia Laís Molina Soares (OAB 15170/MS), Evellyn Suanne Paim Geller (OAB 16096/MS), Larissa Sisti Lima (OAB 27232/MS)"},
+        {"data": "02/07/2025", "movimento": "Distribuição do feito e protocolo da petição inicial", "detalhes": "Pedido de informações e tutela de evidência."},
+        {"data": "03/07/2025", "movimento": "Despacho inicial", "detalhes": "Determinado pagamento de custas e taxa de citação em 15 dias."},
+        {"data": "16/07/2025", "movimento": "Juntada de comprovantes", "detalhes": "Comprovado pagamento das custas iniciais."},
+        {"data": "01/08/2025", "movimento": "Decisão liminar", "detalhes": "Deferido parcialmente: informações a serem prestadas com a contestação; determinada a citação."},
+        {"data": "04/08/2025", "movimento": "Expedição de citação", "detalhes": "Carta expedida; AR juntado em 20/08/2025 confirmando entrega em 07/08/2025."},
+        {"data": "10/09/2025", "movimento": "Contestação apresentada", "detalhes": "Ré nega responsabilidade, alega culpa de terceiros/PEC e informa contas envolvidas."}
     ],
     "peticoes_diversas": [
-        {"data": "02/03/2023", "tipo": "Pedido de Providências"},
-        {"data": "17/03/2023", "tipo": "Manifestação do Autor"},
-        {"data": "24/03/2023", "tipo": "Juntada de Certidão"},
-        {"data": "02/08/2023", "tipo": "Juntada de Diligências"},
-        {"data": "08/08/2023", "tipo": "Juntada de Certidão"},
-        {"data": "07/03/2024", "tipo": "Pedido de Providências"},
-        {"data": "07/05/2024", "tipo": "Juntada de Ofício"},
-        {"data": "21/06/2024", "tipo": "Manifestação do Autor"},
-        {"data": "30/04/2025", "tipo": "Juntada de Ofício"},
-        {"data": "24/06/2025", "tipo": "Pedido de Providências"},
+        {"data": "16/07/2025", "tipo": "Petição Intermediária (comprovação de custas)"}
+        {"data": "10/09/2025", "tipo": "Contestação"}
     ],
     "incidentes_etc": [],
     "apensos_entranhados_unificados": "Não há processos apensados, entranhados e unificados a este processo.",
